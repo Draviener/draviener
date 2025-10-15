@@ -9,39 +9,12 @@
 
 
 <!-- Introduction -->
-<h1> Hello, I'm a blockchain developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+🤝;Senior+Blockchain+Developer🖤;+Perfect+and+Reliable+Enginner👍;" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/>
 <div align="left">
-<div align="right">
-  <img src="images/123Z_2101.w020.n001.946B.p15.946.jpg" width="100%" alt="Blockchain Developer" />
-</div>
-
-<!--   About me -->
-## Blockchain Developer & DeFi Architect
-<div align="center" width=100%>
-
-<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=constellation-infinity&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/constellation-infinity)<-->
-
-</div>
-<div align="left">
-<img src="images/3588353-preview.png" width="25%" align="right"/>
-I’m a Blockchain & AI Developer with hands-on expertise in building scalable decentralized applications (DApps), DeFi platforms, and smart contracts. 
-I specialize in creating end-to-end solutions that merge cutting-edge AI capabilities with blockchain technology, empowering next-generation Web3 ecosystems.
-
- 
-💡 AI & Blockchain Developer with strong experience in: 
-
-- Front-end Development: ReactJS, NextJS → building pixel-perfect, responsive UIs for Web3 applications.
-- Back-end Engineering: NestJS & Golang → creating robust, high-performance APIs and microservices.
-- Smart Contracts: Solidity & Rust → designing secure and optimized contracts for Ethereum, EVM chains, and Solana.
-- Blockchain Solutions: Tokenization, DeFi protocols, NFT marketplaces, DAO governance, and cross-chain integrations.
-- AI Integration: Leveraging machine learning & AI models to enhance blockchain use cases like predictive analytics, automation, and intelligent dApps.
-
-⚡ I thrive on solving complex problems, bridging AI + blockchain innovation, and delivering impactful decentralized solutions that scale.
-</div>
 
 <!-- Programming languages & Technologies -->
 
-## 💻 Tech Stack AND TOOLS
+## 💻 Tech Stack AND TOOLS <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
 
 <table align="center">
   <tr>
@@ -181,19 +154,6 @@ I specialize in creating end-to-end solutions that merge cutting-edge AI capabil
 - **IPFS & Filecoin** - Decentralized storage solutions
 - **Web3 Infrastructure** - TheGraph, Chainlink, Infura
 
-## 📝 Blockchain Articles & Research <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
-
-<div align="left">
-  <img src="images/research.gif" width="20%" align="right" />
-  <ul>
-    <li><a href="https://dev.to/">Implementing Zero-Knowledge Proofs in Modern DeFi Applications</a></li>
-    <li><a href="https://dev.to/">Cross-Chain Interoperability: Challenges and Solutions</a></li>
-    <li><a href="https://dev.to/">Gas Optimization Techniques for Ethereum Smart Contracts</a></li>
-    <li><a href="https://medium.com/">Security Best Practices for Smart Contract Development</a></li>
-    <li><a href="https://dev.to/">The Evolution of Consensus Mechanisms: From PoW to PoS and Beyond</a></li>
-  </ul>
-</div>
-
 ## 🏆 Certifications & Achievements
 
 - **Certified Ethereum Developer** - Ethereum Foundation
@@ -252,6 +212,6 @@ I specialize in creating end-to-end solutions that merge cutting-edge AI capabil
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=abdk-libraries-solidity&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
-
+ 
 </div>
 </div>
